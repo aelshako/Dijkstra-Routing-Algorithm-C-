@@ -1,5 +1,4 @@
 //Name: Ahmad El Shakoushy
-//ID: 915814671
 //ENGR 476-02: Dijkstra Routing Project
 
 #include <stdio.h>
